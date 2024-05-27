@@ -15,6 +15,8 @@ Examensarbete hos Akind och Academic Work. En fullt funferande pipeline som häm
 # AI - Computer Vision
 The project leverages the YOLOv4 algorithm to detect and track speed cameras on Swedish roads, utilizing a dataset of over 2,000 annotated images. The algorithm is capable of detecting objects from a distance of 200 to 250 meters.
 
+YOLOv4 (You Only Look Once version 4) is an advanced object detection algorithm that is both fast and accurate. It uses a single neural network to process the entire image and predicts bounding boxes and class probabilities directly. YOLOv4 incorporates several improvements over its predecessors, including:
+
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/s2JpXa-B5aQ/mqdefault.webp?v=60454f69&sqp=CMDr0bIG&rs=AOn4CLA5xxsIYwTyjVz59gkHi_SOhTMdPA)](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
 
 # Jetson Nano - OpenCV
