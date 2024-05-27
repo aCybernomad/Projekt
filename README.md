@@ -15,6 +15,6 @@ Using YoloV4-algorithm to spot and track speed cameras on Swedish roads with 200
 Experimentmed OpenCV (Computer Vision) där en robot tränats att följa ett grönt object. 
 
 [![IMAGE ALT TEXT HERE](
-https://i9.ytimg.com/vi_webp/ixaLQBo2JrQ/mq2.webp?sqp=CJT_0rIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChNMA8=&rs=AOn4CLDutTTLXlL778_JBYZzUvR7CAiPFQ)]([https://www.youtube.com/watch?v=s2JpXa-B5aQ](https://youtu.be/ixaLQBo2JrQ))
-
+https://i9.ytimg.com/vi_webp/ixaLQBo2JrQ/mq2.webp?sqp=CJT_0rIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChNMA8=&rs=AOn4CLDutTTLXlL778_JBYZzUvR7CAiPFQ)](
+https://youtu.be/ixaLQBo2JrQ)
 
