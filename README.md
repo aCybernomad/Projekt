@@ -9,3 +9,6 @@ Examensarbete hos Akind och Academic Work. En fullt funferande pipeline som häm
 Using YoloV4-algorithm to spot and track speed cameras on Swedish roads with 2000+ annotated images. 
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/s2JpXa-B5aQ/mqdefault.webp?v=60454f69&sqp=CMDr0bIG&rs=AOn4CLA5xxsIYwTyjVz59gkHi_SOhTMdPA)](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2JpXa-B5aQ?si=XDVM-g1_cbUdeZae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
