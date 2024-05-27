@@ -10,7 +10,11 @@ Using YoloV4-algorithm to spot and track speed cameras on Swedish roads with 200
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/s2JpXa-B5aQ/mqdefault.webp?v=60454f69&sqp=CMDr0bIG&rs=AOn4CLA5xxsIYwTyjVz59gkHi_SOhTMdPA)](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
 
+# Jetson Nano OpenCV
 
+Experimentmed OpenCV (Computer Vision) där en robot tränats att följa ett grönt object. 
 
+[![IMAGE ALT TEXT HERE](
+https://i9.ytimg.com/vi_webp/ixaLQBo2JrQ/mq2.webp?sqp=CJT_0rIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChNMA8=&rs=AOn4CLDutTTLXlL778_JBYZzUvR7CAiPFQ)]([https://www.youtube.com/watch?v=s2JpXa-B5aQ](https://youtu.be/ixaLQBo2JrQ))
 
 
