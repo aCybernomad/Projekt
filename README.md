@@ -1,3 +1,10 @@
+# CI/CD Pipeline 
+
+Examensarbete hos Akind och Academicwork. En fullt funferande pipeline som hämtar ISS-GPS data från ett API och skapar ett eget API med en postgres volume.
+
+![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
+
+
 # Computer-Vision
 Using YoloV4-algorithm to spot and track speed cameras on Swedish roads with 2000+ annotated images. 
 
