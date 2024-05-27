@@ -5,9 +5,10 @@ Praktik på Akind, målet vara att från ISPs IP-Nummer (Default Gateway hos Aki
 Utrustning: Fortigate FW, Aruba Switch
 
 
-# CI/CD Pipeline (Docker, Github Actions, Ansible, Terraform) 
+# CI/CD Pipeline 
+### (Docker, Github Actions, Ansible, Terraform) 
 
-In my thesis project at Akind and Academic Work, I'm developing a functional pipeline that retrieves ISS GPS data from an API and creates my own API with a PostgreSQL database. To accomplish this, I'm leveraging tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowers me to efficiently build and deploy my application with minimal manual intervention.
+In my thesis project at Akind and Academic Work, I developed a functional pipeline that retrieved ISS GPS data from an API and created my own API with a PostgreSQL database. To accomplish this, I leveraged tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowered me to efficiently build and deploy my application with minimal manual intervention.
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
