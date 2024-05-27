@@ -1,4 +1,4 @@
-# Networking - Brandvägg till virtuella maskiner via VLAN
+# Networking - Från brandvägg till virtuella maskiner via VLAN
 
 Praktik på Akind, målet vara att från ISPs IP-Nummer (Default Gateway hos Akind) skarva access till en webbserver huserandes hos en virtuell Ubuntu - Server i Proxmox.
 
