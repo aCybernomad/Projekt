@@ -1,6 +1,6 @@
 # CI/CD Pipeline 
 
-Examensarbete hos Akind och Academicwork. En fullt funferande pipeline som hämtar ISS-GPS data från ett API och skapar ett eget API med en postgres volume.
+Examensarbete hos Akind och Academic Work. En fullt funferande pipeline som hämtar ISS-GPS data från ett API och skapar ett eget API med en postgres-databas.
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
