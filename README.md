@@ -1,8 +1,8 @@
-# Networking - Från brandvägg till virtuella maskiner via VLAN
+# Networking - Routing from the firewall to virtual machines through VLANs
 
-Praktik på Akind, målet vara att från ISPs IP-Nummer (Default Gateway hos Akind) skarva access till en webbserver huserandes hos en virtuell Ubuntu - Server i Proxmox.
+During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 10, accessible from the ISP's IP address. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from the ISP's IP address to reach the Ubuntu Server on VLAN 10.
 
-Utrustning: Fortigate FW, Aruba Switch
+![fjh](https://github.com/aCybernomad/Projekt/assets/148804486/3e75ae1c-1685-4351-997e-c46c81882b86)
 
 
 # CI/CD Pipeline 
