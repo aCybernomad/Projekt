@@ -1,3 +1,10 @@
+# Networking - Brandvägg till virtuella maskiner via VLAN
+
+Praktik på Akind, målet vara att från ISPs IP-Nummer (Default Gateway hos Akind) skarva access till en webbserver huserandes hos en virtuell Ubuntu - Server i Proxmox.
+
+Utrustning: Fortigate FW, Aruba Switch
+
+
 # CI/CD Pipeline 
 
 Examensarbete hos Akind och Academic Work. En fullt funferande pipeline som hämtar ISS-GPS data från ett API och skapar ett eget API med en postgres-databas.
