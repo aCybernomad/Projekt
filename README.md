@@ -7,7 +7,7 @@ Utrustning: Fortigate FW, Aruba Switch
 
 # CI/CD Pipeline (Docker, Github Actions, Ansible, Terraform) 
 
-Examensarbete hos Akind och Academic Work. En fullt funferande pipeline som hämtar ISS-GPS data från ett API och skapar ett eget API med en postgres-databas.
+In my thesis project at Akind and Academic Work, I'm developing a functional pipeline that retrieves ISS GPS data from an API and creates my own API with a PostgreSQL database. To accomplish this, I'm leveraging tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowers me to efficiently build and deploy my application with minimal manual intervention.
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
