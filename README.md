@@ -14,14 +14,11 @@ During my internship at Akind, the objective was to make a web page hosted on a 
 
 In my thesis project at Akind and Academic Work, I developed a functional pipeline that retrieved ISS GPS data from an API and created my own API with a PostgreSQL database. To accomplish this, I leveraged tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowered me to efficiently build and deploy my application with minimal manual intervention.
 
-[>> Link to repository CI/CD ](https://github.com/aCybernomad/akind-cicd)
+[Link to repository CI/CD ](https://github.com/aCybernomad/akind-cicd)
 
-[>> Link to repository Github-Actions ](https://github.com/aCybernomad/actions.git)
-
-
+[Link to repository Github-Actions ](https://github.com/aCybernomad/actions.git)
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
-
 
 
 # AI - Computer Vision
@@ -29,7 +26,10 @@ The project leverages the YOLOv4 algorithm to detect and track speed cameras on 
 
 YOLOv4 (You Only Look Once version 4) is an advanced object detection algorithm that is both fast and accurate. It uses a single neural network to process the entire image and predicts bounding boxes and class probabilities directly. YOLOv4 incorporates several improvements over its predecessors, including:
 
-[![Speed Cam](https://i9.ytimg.com/vi_webp/s2JpXa-B5aQ/mqdefault.webp?v=60454f69&sqp=CMDr0bIG&rs=AOn4CLA5xxsIYwTyjVz59gkHi_SOhTMdPA)](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
+[Link to Youtube ](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
+
+![cam](https://github.com/aCybernomad/Projekt/assets/148804486/df7cbc5b-0817-44c4-98ce-d3753b948119)
+
 
 # Jetson Nano - OpenCV
 
