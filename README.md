@@ -40,8 +40,13 @@ The setup included two servos for horizontal and vertical movement, controlled b
 ![Wall-E](https://github.com/aCybernomad/Projekt/assets/148804486/05666c52-b9a0-427c-a095-b8ed2c1eeee2)
 
 
-# GameBoy retro modding
+# Game Boy Retro Modding
+
+I buy old Game Boys specifically for the motherboards and discard all other parts. I then create an overall design that I think will sell well. After that, I custom mod the Game Boy with new speakers, RGB lights, a new screen, a new shell, and new buttons. The customer receives a Game Boy that is likely one-of-a-kind, making it a unique item that no one else has.
+
 ![Finished gameboy](https://github.com/aCybernomad/Projekt/assets/148804486/b5d9d1ce-7f15-4434-86b9-534578f0aca6)
+
+The RGB LEDs are soldered to the motherboard, with the red wire controlling the ten-step brightness of the screen.
 
 ![pcb](https://github.com/aCybernomad/Projekt/assets/148804486/d44d7eba-231d-4c6a-8b81-d5ffd7adcba0)
 
