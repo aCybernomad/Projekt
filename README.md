@@ -14,7 +14,11 @@ During my internship at Akind, the objective was to make a web page hosted on a 
 
 In my thesis project at Akind and Academic Work, I developed a functional pipeline that retrieved ISS GPS data from an API and created my own API with a PostgreSQL database. To accomplish this, I leveraged tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowered me to efficiently build and deploy my application with minimal manual intervention.
 
-### [>> Link to repository](https://github.com/aCybernomad/akind-cicd)
+[>> Link to repository CI/CD ](https://github.com/aCybernomad/akind-cicd)
+
+[>> Link to repository Github-Actions ](https://github.com/aCybernomad/actions.git)
+
+
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
