@@ -16,7 +16,7 @@ In my thesis project at Akind and Academic Work, I developed a functional pipeli
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
-
+[terraform-cicd/script.sh](https://github.com/aCybernomad/akind-cicd)
 
 # AI - Computer Vision
 The project leverages the YOLOv4 algorithm to detect and track speed cameras on Swedish roads, utilizing a dataset of over 2,000 annotated images. The algorithm is capable of detecting objects from a distance of 200 to 250 meters.
