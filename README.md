@@ -28,7 +28,7 @@ YOLOv4 (You Only Look Once version 4) is an advanced object detection algorithm 
 
 [Link to Youtube ](https://www.youtube.com/watch?v=s2JpXa-B5aQ)
 
-![cam](https://github.com/aCybernomad/Projekt/assets/148804486/df7cbc5b-0817-44c4-98ce-d3753b948119)
+![Speed Cameras](https://github.com/aCybernomad/Projekt/assets/148804486/df7cbc5b-0817-44c4-98ce-d3753b948119)
 
 
 # Jetson Nano - OpenCV
@@ -37,7 +37,10 @@ An experiment using OpenCV (Computer Vision) involved training a server-controll
 
 The setup included two servos for horizontal and vertical movement, controlled by a Python script utilizing the OpenCV library for object detection. The servos adjusted the camera's position based on the detected object's coordinates, ensuring continuous tracking. This project demonstrated effective integration of hardware and software for real-time object tracking using computer vision techniques​ 
 
-[![Robot - OpenCv(
-https://i9.ytimg.com/vi_webp/ixaLQBo2JrQ/mq2.webp?sqp=CJT_0rIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChNMA8=&rs=AOn4CLDutTTLXlL778_JBYZzUvR7CAiPFQ)](
-https://youtu.be/ixaLQBo2JrQ)
+[Link to Youtube ](https://www.youtube.com/watch?v=ixaLQBo2JrQ)
+
+![Wall-E](https://github.com/aCybernomad/Projekt/assets/148804486/05666c52-b9a0-427c-a095-b8ed2c1eeee2)
+
+
+
 
