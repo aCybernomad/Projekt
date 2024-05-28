@@ -1,4 +1,5 @@
-# Networking - Firewall to virtual machines through VLANs
+# Networking
+### (Firewall, virtual machines, VLANs, Aruba Switch) 
 
 During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 20, accessible from the internet. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from outside to reach the Ubuntu Server on VLAN 20.
 
@@ -14,6 +15,7 @@ During my internship at Akind, the objective was to make a web page hosted on a 
 In my thesis project at Akind and Academic Work, I developed a functional pipeline that retrieved ISS GPS data from an API and created my own API with a PostgreSQL database. To accomplish this, I leveraged tools like Terraform to manage infrastructure, Ansible for configuring and deploying the application, GitHub Actions for automating my CI/CD pipeline, along with Docker and Docker Hub for containerization and distribution. This pipeline empowered me to efficiently build and deploy my application with minimal manual intervention.
 
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
+
 
 
 # AI - Computer Vision
