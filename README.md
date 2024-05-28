@@ -1,6 +1,6 @@
 # Networking - Routing from the firewall to virtual machines through VLANs
 
-During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 20, accessible from the ISP's IP address. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from the ISP's IP address to reach the Ubuntu Server on VLAN 20.
+During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 20, accessible from the internet. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from outside to reach the Ubuntu Server on VLAN 20.
 
 ![fjh](https://github.com/aCybernomad/Projekt/assets/148804486/3e75ae1c-1685-4351-997e-c46c81882b86)
 
