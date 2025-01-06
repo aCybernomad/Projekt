@@ -10,16 +10,6 @@ In my thesis project at Akind and Academic Work, I developed a functional pipeli
 ![IaC](https://github.com/aCybernomad/Projekt/assets/148804486/1f5e8914-168d-4e38-8f8b-da7dd6563d9e)
 
 
-# Networking
-### (Firewall, virtual machines, VLANs, Aruba Switch) 
-
-During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 20, accessible from the internet. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from outside to reach the Ubuntu Server on VLAN 20.
-
-![Network](https://github.com/aCybernomad/Projekt/assets/148804486/72ecea23-85f3-441f-aacd-45b347c7b2bb)
-
-![Network](https://github.com/aCybernomad/Projekt/assets/148804486/7d86e762-42ba-4ca2-bb52-2d52b9cb4080)
-
-
 # AI - Computer Vision
 The project leverages the YOLOv4 algorithm to detect and track speed cameras on Swedish roads, utilizing a dataset of over 2,000 annotated images. The algorithm is capable of detecting objects from a distance of 200 to 250 meters.
 
@@ -39,6 +29,14 @@ The setup included two servos for horizontal and vertical movement, controlled b
 
 ![Wall-E](https://github.com/aCybernomad/Projekt/assets/148804486/05666c52-b9a0-427c-a095-b8ed2c1eeee2)
 
+# Networking
+### (Firewall, virtual machines, VLANs, Aruba Switch) 
+
+During my internship at Akind, the objective was to make a web page hosted on a virtual Ubuntu Server, which was on VLAN 20, accessible from the internet. This required configuring the Fortigate Firewall and Aruba Switch to allow traffic from outside to reach the Ubuntu Server on VLAN 20.
+
+![Network](https://github.com/aCybernomad/Projekt/assets/148804486/72ecea23-85f3-441f-aacd-45b347c7b2bb)
+
+![Network](https://github.com/aCybernomad/Projekt/assets/148804486/7d86e762-42ba-4ca2-bb52-2d52b9cb4080)
 
 # Game Boy Retro Modding
 
